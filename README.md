@@ -40,7 +40,8 @@ In conclusion, this project demonstrates how real-time communication can be achi
 
 #output
 
-![Uploading IMG_20250524_105104 (2).jpg…]()
+![Uploading Screenshot (1).png…]()
+
 
 
 
